@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Firma HTML</title>
+</head>
+
+<!--Copia desde aquí-->
+<table width="500" border="0" cellspacing="0" cellpadding="0" style="background-color: #FFEB3B; border: 2px solid #212121">
+	<tr>
+		<td width="170" height="170" style="background-color: #212121; border-right: 2px solid #212121;" align="right" valign="top">
+			<a href="https://www.estevezdesign.cl/" target="_blank"><img src="https://www.estevezdesign.cl/wp-content/uploads/2018/12/profile_firma.png" width="150" height="180" style="padding-top:15px;"></a>
+	</td>
+		<td width="330" height="170" style="padding-left:25px; font-family: Lato, Arial, sans-serif; font-size:13px; border-left: none; line-height:16px;" valign="bottom">
+			<p style="font-size:28px;"><b>Francisco Estévez Tapia</b></p>
+			<p style="line-height:9px;"><b>Diseñador Grafico UX/UI</b></p>
+			<p style="line-height:9px;">Fono: <a href="tel:+56984581818">+56984581818</a>
+			<p style="line-height:9px;">Correo: <a href="mailto:francisco@estevezdesign.cl">francisco@estevezdesign.cl</a></p>
+			<p style="line-height:9px;">Portafolio: <a href="https://www.estevezdesign.cl">www.estevezdesign.cl</a></p>
+	
+			<p><b>Síguenos en:</b></p>
+			<p><a href="https://www.instagram.com/pancho.css/" target="_blank"><img src="https://www.estevezdesign.cl/wp-content/uploads/2018/12/Social_firma-1.png" width="30" height="30"></a>
+			<a href="https://dribbble.com/estevez_design" target="_blank"><img src="https://www.estevezdesign.cl/wp-content/uploads/2018/12/Social_firma_dribble.png" width="30" height="30"></a>
+			<!-- <a href="[ENLACE A GOOGLE PLUS]" target="_blank"><img src="[URL IMAGEN LOGO GOOGLE PLUS]" width="30" height="30"></a></p> -->
+		</td>
+	</tr>
+</table>
+<!--hasta aquí-->
+
+
+</html>
