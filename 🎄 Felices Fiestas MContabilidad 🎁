@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="utf-8">
+	<title>Saludo Navideño</title>
+</head>
+<body style="background-color: ##CFD8DC">
+
+
+<!--Copia desde aquí-->
+<table style="max-width: 600px; padding: 10px; margin: 20px auto; align-content: center">
+	<tr>
+		<td style="background-color: #ecf0f1; text-align: border-collapse: collapse; left; border: 1px solid #ecf0f1">
+			<a href="https://www.mcontabilidad.cl">
+				<img width="20%" style="display:block; margin: 1.5% 3%; padding: 10px" src="https://www.estevezdesign.cl/wp-content/uploads/2018/12/LOGO-MORALES-CONTABILIDAD-para-pymes.png">
+			</a>
+		</td>
+	</tr>
+	<tr>
+		<td style="background-color: #ecf0f1; margin-top: 0px; border: 1px solid #ecf0f1">
+				<p style="color: #9E9E9E; font-size: 12px; text-align: center;margin: 10px; font-family: sans-serif" >Si usted no visualiza bien este mail <a href="https://www.estevezdesign.cl/feliz_navidad/">Haga clic Aquí</a></p>
+				<img style="width: 600px; margin: 5px; align-content: center; display:block; margin:auto;" src="https://www.estevezdesign.cl/wp-content/uploads/2018/12/feliz_navidad-1.gif">
+				<p style="color: #b3b3b3; font-size: 12px; text-align: center;margin: 10px; font-family: sans-serif" >Creado por <a href="https://www.estevezdesign.cl">Estévez Design</a></p>
+			</td>
+		</td>
+	</tr>
+</table>
+<!--hasta aquí-->
+
+
+</body>
+</html>
